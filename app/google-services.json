@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524429862530",
+    "project_id": "realidadaumentadafirstproject",
+    "storage_bucket": "realidadaumentadafirstproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524429862530:android:10d06cbd0135b93247b69b",
+        "android_client_info": {
+          "package_name": "com.example.realidadaumentadafirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524429862530-2bsk728dkl6tsk3u2evp5v90n2jccmsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_t29HDrt5Tkz1D8r8X_7o9rQ7u99C4Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524429862530-2bsk728dkl6tsk3u2evp5v90n2jccmsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
